@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kiginshi",
  "yomi": "きぎんしか",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "江戸前期",
+  "author": "北村季吟（1624〜1705）",
+  "desc": "歌学者北村季吟の歌の抄。新玉津島で詠んだ月次の歌や、紀伊に下った折の歌などを収める。"
+ },
  "editions": [
   {
    "pid": "993386",
